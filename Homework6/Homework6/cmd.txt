@@ -1,0 +1,7 @@
+Stop_word remove.txt
+Add_doc rainbow.txt
+Add_doc roses.txt
+Add_doc puppy.txt
+Search 1 red
+Search 2 blue red
+Search 1 amber

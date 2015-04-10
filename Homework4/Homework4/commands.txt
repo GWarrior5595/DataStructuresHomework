@@ -1,0 +1,11 @@
+Read input.txt A
+Read inputB.txt B
+Read input1.txt C
+R1=Aaa+Bbbb
+Print R1 forward
+R2=B+A*C
+R5=(A+B)*C
+R6=(Aa+bC+RGHEJ)*r9*(72+86)
+Print R5 backward
+Print R2 forward
+Print R6 forward

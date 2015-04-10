@@ -1,0 +1,15 @@
+Read input.txt
+Insert yeahyeahyeah many
+Delete many
+Insert Office Windows
+Insert Nokia Windows
+Delete Windows
+Delete Office
+Delete Nokia
+Delete kitty
+Delete Microsoft
+Insert Microsoft hhas
+Print backward
+Insert Microsoft many
+Delete many
+Print forward
