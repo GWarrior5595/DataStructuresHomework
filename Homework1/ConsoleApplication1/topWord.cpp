@@ -4,12 +4,6 @@
 */
 #include "Array.h"
 #include "Word.h"
-/* Written by Victor M, Lopez Rodriguez    PS ID: 1261271
- Assignment 0: Given a text file of at max 150 words find the most repeated word.
-
- Written and compiled in Fedora 20.
-*/
-
 #include <iostream>
 #include <fstream>
 #include <cstdlib>
